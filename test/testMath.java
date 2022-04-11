@@ -21,7 +21,7 @@ public class testMath {
  }
 
     public static void main(String[] args) {
-        int[] arr = {1, 4, 10, 2, 7, 6, 5, 9, 8, 3};
+        int[] arr = {10,6,3,2,7,8,9,1,5};
         bubbleSort(arr);
         for (int j : arr) {
             System.out.println(j);
